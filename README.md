@@ -25,6 +25,7 @@ values,vectors = L.eig(arr)
 print("Eigen values are",values,"and Eigen Vectors are",vectors)
 ``````
 ## Output:
-![output](/output.png)
+![image](https://github.com/Abishai95141/EIGENVALUES-AND-EIGENVECTORS/assets/139335314/b7661c67-a736-48f1-98a0-808abdc9cc0d)
+
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
